@@ -1,5 +1,4 @@
 # DRAFT ASSISTANT
-## Video Demo:  https://youtu.be/JH0u_8QJkmQ
 ## Description:
 This project is a program designed for dota2 in-game play specifically. I personally think dota as a really drafting-centric game, so the hero you pick depending on the enemy draft will have a great influence on your win rate of this game. Before I came up with this program, I have been browsing the website DotaBuff.com very often just to see the what heroes are good for countering the enemy draft, for on DotaBuff there is very complete information about which hero counters which hero and their advantage rate accordingly.
 
